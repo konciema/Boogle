@@ -1,0 +1,61 @@
+
+
+body {
+  font-family: Arial, sans-serif;
+  display: contents;
+  width: 100%;
+  border: 1px solid red;
+}
+
+.navigation {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+.main {
+  margin: 0 auto;
+  width: 400px;
+  height: 300px;
+  border: 1px solid red;
+  padding: 20px;
+}
+
+.boogle {
+  margin: 0 auto;
+}
+
+#img-1 {
+  vertical-align: middle;
+  padding: 20px;
+}
+
+.search {
+  margin: 0 auto;
+}
+
+.bottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: gray;
+  padding: 10px;
+  width:
+}
+
+
+
+button {
+  background: lightgrey;
+  color: black;
+  border: 1px darkgray solid;
+  border-radius: 5px;
+  width: 150px;
+  padding: 5px;
+  font-size: 20px;
+}
+
+#search {
+  font-size: 20px;
+}

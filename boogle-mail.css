@@ -1,0 +1,109 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Tahoma;
+}
+
+h1, h3 {
+  font-weight: normal;
+}
+
+
+#content {
+  width: 100%;
+}
+
+#top {
+  margin: 30px auto;
+  width: 300px;
+  text-align: center;
+}
+
+img {
+  width: 150px;
+  height: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#main {
+  margin: 0 auto;
+  text-align: center;
+}
+
+#main-top {
+  margin-bottom: 20px;
+}
+
+#main-middle {
+  margin: 0 auto 10px auto;
+  width: 350px;
+  height: 320px;
+  background-color: lightgray;
+  text-align: center;
+  border-radius: 5px;
+}
+
+#email {
+  border-radius: 15px;
+  height: 40px;
+  width: 300px;
+  padding: 10px;
+}
+
+#button-1 {
+  border-radius: 15px;
+  height: 40px;
+  width: 300px;
+  padding: 10px;
+  background-color: blue;
+  margin-bottom: 10px;
+}
+
+#help {
+  float: right;
+  margin-right: 10px;
+
+}
+
+#main-bottom {
+  margin: 5px auto 70px auto;
+  text-align: center;
+}
+
+#foot {
+  display: inline-block;
+  border-top: 1px solid gray;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+li {
+  display: inline-block;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+#english {
+  position: fixed;
+  right: 10px;
+  text-align:
+}
+
+a {
+  color: blue;
+  font-style: normal;
+  font-weight: normal;
+  font-kerning: none;
+  text-decoration: none;
+}
+
+a:hover {
+  color: purple;
+}
